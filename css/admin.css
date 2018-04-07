@@ -1,0 +1,10 @@
+label#mp3-title{
+	display: block;
+	margin:2px;
+	}
+
+input#mp3-title,
+input#mp3-file{
+	width:100%;
+	margin:2px;
+}
